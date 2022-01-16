@@ -8,7 +8,7 @@ The purpose of this analysis was to do two things: determine how many Pewlett Ha
 
 -Of the 72,000 retiring employees, more than 50,000 of those are Senior team members (either Senior Engineers or Senior Staff). PH will be losing a huge amount of experience as these employees transition out of the company.
 
-The Engineering team (Senior Engineers, Engineers and Assistant Engineers) makes up more than half of the retiring employees. The hiring team may need to have an increased focus on hiring engineering roles for PH.
+-The Engineering team (Senior Engineers, Engineers and Assistant Engineers) makes up more than half of the retiring employees. The hiring team may need to have an increased focus on hiring engineering roles for PH.
 
 -There are 1,549 employees eligible for the mentorship program. This number is far below the expected number of retiring employees, and the mentorship program may need to be expanded to meet the hiring demand and provide proper mentoring and training for new employees.
 
