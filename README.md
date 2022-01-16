@@ -13,3 +13,10 @@ The purpose of this analysis was to do two things: determine how many Pewlett Ha
 -There are 1,549 employees eligible for the mentorship program. This number is far below the expected number of retiring employees, and the mentorship program may need to be expanded to meet the hiring demand and provide proper mentoring and training for new employees.
 
 ## Summary
+Fill 70K roles
+
+Not enough in mentorship program
+
+Query Ratio mentors : new emps
+
+Query hire date for mentorship expansion
