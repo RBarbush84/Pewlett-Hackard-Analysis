@@ -13,10 +13,6 @@ The purpose of this analysis was to do two things: determine how many Pewlett Ha
 -There are 1,549 employees eligible for the mentorship program. This number is far below the expected number of retiring employees, and the mentorship program may need to be expanded to meet the hiring demand and provide proper mentoring and training for new employees.
 
 ## Summary
-Fill 70K roles
+In order to meet the hiring demands from the "silver tsunami" retirements, Pewlett Hackard will need to fill approxiamtely 70,000 roles. With only 1549 employees currently eligible for the mentorship program, PH does not have the sufficient experienced employee base to properly mentor and train new hires.
 
-Not enough in mentorship program
-
-Query Ratio mentors : new emps
-
-Query hire date for mentorship expansion
+Some possible ways to provide more insight would be to expand the mentorship program and write a query that checks years worked or hire date rather than birth date for experienced employees eligible for the mentorship program. Another would be to examine the ratio of new hires to the number of eligible mentors and see how many new employees each mentor might be responsible for in a given department. If they have too many new employees to mentor, that mentorship and training may not be as effective as it needs to be to set PH up for success in the future.
